@@ -1,0 +1,9 @@
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Client\bin\Debug\Client.exe
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Client\bin\Debug\Client.pdb
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Client\obj\Debug\Client.exe
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Client\obj\Debug\Client.pdb
+F:\Dropbox\!Coding\All_in_one\Proiznoshator\Client\obj\Debug\Client.exe
+F:\Dropbox\!Coding\All_in_one\Proiznoshator\Client\obj\Debug\Client.pdb
+F:\Dropbox\!Coding\All_in_one\SpeachTesting\Client\obj\Debug\Client.exe
+F:\Dropbox\!Coding\All_in_one\SpeachTesting\Client\obj\Debug\Client.pdb

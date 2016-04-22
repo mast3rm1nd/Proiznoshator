@@ -1,0 +1,5 @@
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Server\bin\Debug\Server.exe
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Server\bin\Debug\Server.pdb
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Server\obj\Debug\Server.exe
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Server\obj\Debug\Server.pdb
+E:\Dropbox\!Coding\All_in_one\Proiznoshator\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
