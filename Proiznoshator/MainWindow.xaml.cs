@@ -14,7 +14,7 @@ using System.Speech.AudioFormat;
 
 
 
-//языки можно скачать тут http://go.microsoft.com/fwlink/?LinkID=223569&clcid=0x409
+//Languages fo Microsoft.Speech: http://go.microsoft.com/fwlink/?LinkID=223569&clcid=0x409 (
 namespace Proiznoshator
 {
     /// <summary>
